@@ -1,0 +1,16 @@
+{
+  "activations": [
+    {
+      "activation_code": "FTV-USER01",
+      "device_id": "FTV-A1B2C3D4",
+      "status": "ACTIVE",
+      "end_date": "2026-12-31"
+    },
+    {
+      "activation_code": "FTV-USER02",
+      "device_id": "FTV-B5E6F7G8",
+      "status": "BLOCKED",
+      "end_date": "2025-12-31"
+    }
+  ]
+}
