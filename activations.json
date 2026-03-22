@@ -17,6 +17,12 @@
       "device_id": "FTV-DAVQVDZCROG5",
       "status": "ACTIVE",
       "end_date": "2026-12-31"
+    },
+    {
+      "activation_code": "ketan",
+      "device_id": "FTV-",
+      "status": "ACTIVE",
+      "end_date": "2026-12-31"
     }
   ]
 }
