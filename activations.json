@@ -23,6 +23,12 @@
       "device_id": "FTV-FQWGFU9LT2UO",
       "status": "ACTIVE",
       "end_date": "2026-12-31"
+    },
+    {
+      "activation_code": "dad",
+      "device_id": "FTV-F6BITHANQ26W",
+      "status": "ACTIVE",
+      "end_date": "2026-12-31"
     }
   ]
 }
