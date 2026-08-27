@@ -59,6 +59,12 @@
       "device_id": "GUPTA-TV-SM-S92-088232F6",
       "status": "ACTIVE",
       "end_date": "2026-12-31"
+    },
+    {
+      "activation_code": "MYTAB",
+      "device_id": "GUPTA-TV-TB370F-63080BD1",
+      "status": "ACTIVE",
+      "end_date": "2026-12-31"
     }
   ]
 }
