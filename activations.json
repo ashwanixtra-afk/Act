@@ -41,6 +41,24 @@
       "device_id": "GUPTA-TV-SDK_GP-C03C0147",
       "status": "ACTIVE",
       "end_date": "2026-12-31"
+    },
+    {
+      "activation_code": "DADMOBILE",
+      "device_id": "GUPTA-TV-SM-M17-59314022",
+      "status": "ACTIVE",
+      "end_date": "2026-12-31"
+    },
+    {
+      "activation_code": "MOMMOBILE",
+      "device_id": "GUPTA-TV-RMX180-40D4806F",
+      "status": "ACTIVE",
+      "end_date": "2026-12-31"
+    },
+    {
+      "activation_code": "ARCHIKAMOB",
+      "device_id": "GUPTA-TV-SM-S92-088232F6",
+      "status": "ACTIVE",
+      "end_date": "2026-12-31"
     }
   ]
 }
